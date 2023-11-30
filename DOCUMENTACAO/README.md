@@ -8,13 +8,15 @@ RM 97041 - Johann Marzolla
 RM 97306 - Lau Costa
 RM 97373 - Raquel Calmon
 
+[GitHub: Vai dar ruim? ](https://github.com/r4cs/cp3_enterprise)
+
 ### Maneira como se propõe a solucionar: *
 
 O projeto VaiDaRuim propõe abordar a conscientização sobre os riscos associados às misturas de substâncias por meio de uma plataforma que fornece informações detalhadas sobre as interações entre diferentes medicamentos e drogas recreativas. A solução inclui:
 
 * Cadastro de Substâncias: Os usuários podem cadastrar diferentes substâncias, sejam medicamentos prescritos ou drogas recreativas, incluindo informações como nome, classificação e possíveis efeitos colaterais.
 
-* Análise de Interactions: A plataforma analisa e fornece informações sobre as interações entre as substâncias cadastradas. Isso ajuda os usuários a entenderem os potenciais riscos associados a determinadas combinações.
+* Padronização de interações entre substâncias: A plataforma analisa e fornece informações sobre as interações entre as substâncias cadastradas. Isso ajuda os usuários a entenderem os potenciais riscos associados a determinadas combinações.
 
 * Classificação de Riscos: Cada interação é classificada com base em níveis de risco, ajudando os usuários a identificarem a gravidade das possíveis consequências.
 
