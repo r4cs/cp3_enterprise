@@ -1,5 +1,7 @@
 package br.com.vaiDarRuim.core.entity;
 
+import jakarta.persistence.Entity;
+
 public enum Classificacao {
     AZUL("azul", "mesma substância"),
     VERDE("verde", "seguro de se usar"),
