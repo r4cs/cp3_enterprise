@@ -1,12 +1,18 @@
-# cp3_enterprise
-Entrega Global Solution 3 - Enterprise App Development.
+## cp3_enterprise
+### Entrega Global Solution 3 - Enterprise App Development.
 
-Alunos:
-RM 96553 - Felipe Sendai
-RM 96542 - Gustavo Ballogh
-RM 97041 - Johann Marzolla
-RM 97306 - Lau Costa
-RM 97373 - Raquel Calmon
+### Alunos:
+
+#### RM 96553 - Felipe Sendai
+
+#### RM 96542 - Gustavo Ballogh
+
+#### RM 97041 - Johann Marzolla
+
+#### RM 97306 - Lau Costa
+
+#### RM 97373 - Raquel Calmon
+
 
 [GitHub: Vai dar ruim? ](https://github.com/r4cs/cp3_enterprise)
 
@@ -34,12 +40,12 @@ O projeto VaiDaRuim propõe abordar a conscientização sobre os riscos associad
 
 ### Modo execução develpment:
 * persistense.xml:
-  ** Determinar sql-load-script-source desejado
-  ** Inlcuir usuario e senha
+  * Determinar sql-load-script-source desejado
+  * Inlcuir usuario e senha
 * Rodar FarmacoController
 
 ### Modo execução testes:
 * persistense.xml:
-  ** Determinar sql-load-script-source desejado
-  ** Inlcuir usuario e senha
+  * Determinar sql-load-script-source desejado
+  * Inlcuir usuario e senha
 * Rodar FarmacoRepoTest
